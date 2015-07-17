@@ -103,6 +103,13 @@ git done # merge the to master and push to origin
 ## Type less, do more!
 
 ```bash
+alias short='long'
+```
+
+---
+# Aliases
+
+```bash
 $ d
 $ c
 $ g
