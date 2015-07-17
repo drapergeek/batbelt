@@ -1,5 +1,5 @@
 build-lists: true
-# Building Your Own Tools
+# Building Your Own Bat-Belt
 
 ### Jason Draper
 ### @drapergeek
@@ -9,7 +9,7 @@ build-lists: true
 
 # Who am I?
 
-* Developer
+* Developer @ thoughtbot
 * Father
 * General Geek
 * Avid wakeboarder
@@ -17,7 +17,7 @@ build-lists: true
 ---
 ![left filtered](vertical_default.eps)
 
-# Who is thoughtbot?
+# What's a thoughtbot?
 
 * Build fun stuff for clients
 * Apprentice program
@@ -40,6 +40,12 @@ build-lists: true
 
 ---
 
+# Shell stuff
+## Prompts
+
+![inline](prompts/default.jpg)
+
+---
 # Shell stuff
 ## Custom Prompts
 
@@ -104,6 +110,8 @@ $ gi
 $ s
 $ fs
 $ m
+$ rs
+$ rc
 ```
 
 ---
@@ -152,3 +160,8 @@ map <Leader>s :vsp ~/.aliases<CR> "Open my aliases file
 * Start a daily list of things you'd like to customize
 * Spend 30 minutes, 1 morning a week adding them
 
+---
+
+# Thanks!
+
+## Questions?
