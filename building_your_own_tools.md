@@ -59,4 +59,19 @@
 
 ---
 # Shell stuff
+
 * Set ENV information - your name and/or email
+
+---
+
+# Git
+* Set your name and email!
+* Set preferences on merging and pushing branches
+* Add quick commands for common things
+
+```bash
+git uf # git reset --hard HEAD
+git rc # git rebase --continue
+git dm # git diff master
+git done # merge the to master and push to origin
+```
