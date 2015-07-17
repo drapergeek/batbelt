@@ -25,14 +25,13 @@ build-lists: true
 * Investment time
 
 ---
-
 # What are dotfiles?
+
 * Really? They're just hidden files
 * In our case - they're configuration files
 * They are what makes each developer's setup unique
 
 ---
-
 # Cool, can you be a bit more specific?
 
 * shell configuration
@@ -42,7 +41,25 @@ build-lists: true
 ---
 
 # Shell stuff
-* customize your prompt
+## Custom Prompts
+
+![inline](prompts/bit_of_color.png)
+![inline](prompts/airline.png)
+
+---
+
+# Shell stuff
+## Custom Prompts
+
+![inline](prompts/previous_command_status.png)
+![inline](prompts/shortened.png)
+
+---
+
+# Shell stuff
+## Custom Prompts
+
+![inline](prompts/dots.png)
 
 ---
 # Shell stuff
@@ -55,6 +72,10 @@ build-lists: true
 
 * Set ENV information - your name and/or email
 
+```bash
+export NAME='Jason Draper'
+export EMAIL='jason@drapergeek.com'
+```
 ---
 
 # Git
