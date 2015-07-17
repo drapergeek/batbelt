@@ -148,3 +148,7 @@ map <Leader>s :vsp ~/.aliases<CR> "Open my aliases file
   * http://github.com/thoughtbot/dotfiles
   * https://dotfiles.github.io/
   * https://github.com/holman/dotfiles
+* Fork it!
+* Start a daily list of things you'd like to customize
+* Spend 30 minutes, 1 morning a week adding them
+
