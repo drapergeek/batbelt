@@ -10,7 +10,7 @@ build-lists: true
 # Who am I?
 
 * Developer @ thoughtbot
-* Father
+* Husband/Father
 * General Geek
 * Avid wakeboarder
 
@@ -89,11 +89,15 @@ export EMAIL='jason@drapergeek.com'
 * Set preferences on merging and pushing branches
 * Add quick commands for common things
 
+---
+
+# Git commands
+
 ```bash
-git uf # git reset --hard HEAD
 git rc # git rebase --continue
 git dm # git diff master
 git done # merge the to master and push to origin
+git uf # git reset --hard HEAD
 ```
 
 ---
@@ -110,15 +114,15 @@ alias short='long'
 # Aliases
 
 ```bash
-$ d
-$ c
-$ g
-$ gi
-$ s
-$ fs
-$ m
-$ rs
-$ rc
+$ d # cd ~/dotfiles
+$ c # cd ~/code
+$ g # git
+$ gi # gem install
+$ s # rspec
+$ fs # foreman start
+$ m # migrate
+$ rs # rails server
+$ rc # rails console
 ```
 
 ---
