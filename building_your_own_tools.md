@@ -22,6 +22,7 @@ build-lists: true
 * Build fun stuff for clients
 * Apprentice program
 * Upcase
+* Open Source
 * Investment time
 
 ---
